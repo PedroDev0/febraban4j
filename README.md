@@ -1,6 +1,6 @@
 # Projeto CANB 240 Layout Implementation
 
-![CANB 240](canb240.jpg)
+![CANB 240]
 
 Este projeto é uma implementação em Java do layout CANB 240, um padrão de arquivo utilizado para a troca de informações entre sistemas financeiros e bancários.
 
@@ -10,7 +10,7 @@ O CANB 240 é um layout padronizado utilizado para a transmissão de dados finan
 
 ## Funcionalidades
 
-- [ ] Leitura de arquivos no formato CANB 240.
-- [ ] Geração de arquivos CANB 240 a partir de dados de entrada.
-- [ ] Validação e conformidade com as especificações do CANB 240.
-- [ ] Manipulação de registros, campos e estruturas do layout.
+- [x] Leitura de arquivos no formato CANB 240.
+- [x] Geração de arquivos CANB 240 a partir de dados de entrada.
+- [x] Validação e conformidade com as especificações do CANB 240.
+- [x] Manipulação de registros, campos e estruturas do layout.
